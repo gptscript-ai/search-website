@@ -1,8 +1,7 @@
-tools: browse, sys.http.get?, sys.http.post?
-name: browse-web-page
+tools: browse
 description: Finds information from a specific website.
-args: website: The website to search in
-args: query: The query to search for
+args: website: The website to search in.
+args: query: The query to search for.
 
 Do not infer or assume anything.
 

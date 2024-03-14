@@ -1,0 +1,3 @@
+tools: github.com/gptscript-ai/browse-web-page
+
+How can I represent an array of strings in JSON Schema? Docs are at https://json-schema.org/.
