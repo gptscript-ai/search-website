@@ -93,7 +93,7 @@ def parse_url(link: str, parsed_link: urllib.parse.ParseResult) -> (str, List[st
 
 # Begin execution
 
-link = os.getenv("url")
+link = os.getenv("URL")
 if link is None:
     print("please provide a URL")
     exit(1)
