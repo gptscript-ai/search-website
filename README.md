@@ -1,4 +1,4 @@
-# Browse Web Page
+# Search Website
 
 This is a tool for GPTScript that searches a particular website for answers to a query.
 It stays on one website and uses links to navigate to other pages on the site.
